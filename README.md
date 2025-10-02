@@ -1,4 +1,4 @@
-# CodeAlpha_ProjectName
+# CodeAlpha_emotion_recognition_from_speech
 import librosa
 import numpy as np
 import os
